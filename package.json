@@ -1,0 +1,23 @@
+{
+  "name": "archik-tea",
+  "version": "1.0.0",
+  "description": "Basic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/archick900/archik-tea.git"
+  },
+  "dependencies": {
+    "archik-tea": "1.0.0",
+    "tea-choudru": "1.0.2",
+    "maksik-demonstration": "1.0.2"
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/archick900/archik-tea/issues"
+  },
+  "homepage": "https://github.com/archick900/archik-tea#readme"
+}
